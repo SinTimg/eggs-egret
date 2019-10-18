@@ -1,7 +1,7 @@
 {
 	"groups": [
 		{
-			"keys": "checkbox_select_disabled_png,checkbox_select_down_png,checkbox_select_up_png,checkbox_unselect_png,selected_png,border_png,header_png,radiobutton_select_disabled_png,radiobutton_select_down_png,radiobutton_select_up_png,radiobutton_unselect_png,roundthumb_png,thumb_png,track_png,tracklight_png,handle_png,off_png,on_png,button_down_png,button_up_png,thumb_pb_png,track_pb_png,track_sb_png,egret_icon_png,description_json,ballParticle_json,ballParticle_png,firePot_png,cloud_jpg,cake_png,qi_jpg,qi_png,cloud_png,monkey_png,bg_jpg,bg2_jpg,bg3_jpg,bg4_jpg,star_png,bg10_jpg,nice1_jpg,nice2_jpg,nice3_jpg,nice4_jpg,nice5_jpg,nice6_jpg,nice7_jpg,nice8_jpg,nice9_jpg,nice10_jpg,nice0_jpg,finger_png,nice11_jpg",
+			"keys": "checkbox_select_disabled_png,checkbox_select_down_png,checkbox_select_up_png,checkbox_unselect_png,selected_png,border_png,header_png,radiobutton_select_disabled_png,radiobutton_select_down_png,radiobutton_select_up_png,radiobutton_unselect_png,roundthumb_png,thumb_png,track_png,tracklight_png,handle_png,off_png,on_png,button_down_png,button_up_png,thumb_pb_png,track_pb_png,track_sb_png,egret_icon_png,description_json,ballParticle_json,ballParticle_png,firePot_png,cloud_jpg,cake_png,qi_jpg,qi_png,cloud_png,monkey_png,bg_jpg,bg2_jpg,bg3_jpg,bg4_jpg,star_png,bg10_jpg,nice1_jpg,nice2_jpg,nice3_jpg,nice4_jpg,nice5_jpg,nice6_jpg,nice7_jpg,nice8_jpg,nice9_jpg,nice10_jpg,nice0_jpg,finger_png,nice11_jpg,you_mp3",
 			"name": "preload"
 		}
 	],
@@ -270,6 +270,11 @@
 			"name": "nice11_jpg",
 			"type": "image",
 			"url": "nice/nice11.jpg"
+		},
+		{
+			"name": "you_mp3",
+			"type": "sound",
+			"url": "particle/you.mp3"
 		}
 	]
 }
