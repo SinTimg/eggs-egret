@@ -1,7 +1,7 @@
 {
 	"groups": [
 		{
-			"keys": "button_down_png,button_up_png,egret_icon_png,description_json,ballParticle_json,ballParticle_png,cake_png,monkey_png,bg_jpg,star_png,bg10_jpg,nice1_jpg,nice2_jpg,nice3_jpg,nice4_jpg,nice5_jpg,nice6_jpg,nice7_jpg,nice8_jpg,nice9_jpg,nice10_jpg,nice0_jpg,finger_png,nice11_jpg,you_mp3",
+			"keys": "button_down_png,button_up_png,egret_icon_png,description_json,ballParticle_json,ballParticle_png,cake_png,monkey_png,bg_jpg,star_png,bg10_jpg,nice1_jpg,nice2_jpg,nice3_jpg,nice4_jpg,nice5_jpg,nice6_jpg,nice7_jpg,nice8_jpg,nice9_jpg,nice10_jpg,nice0_jpg,finger_png,nice11_jpg,you_mp3,cloud_png",
 			"name": "preload"
 		}
 	],
@@ -130,6 +130,11 @@
 			"name": "you_mp3",
 			"type": "sound",
 			"url": "particle/you.mp3"
+		},
+		{
+			"name": "cloud_png",
+			"type": "image",
+			"url": "particle/cloud.png"
 		}
 	]
 }
