@@ -1,7 +1,7 @@
 {
 	"groups": [
 		{
-			"keys": "button_down_png,button_up_png,egret_icon_png,description_json,ballParticle_json,ballParticle_png,cake_png,monkey_png,bg_jpg,star_png,bg10_jpg,nice1_jpg,nice2_jpg,nice3_jpg,nice4_jpg,nice5_jpg,nice6_jpg,nice7_jpg,nice8_jpg,nice9_jpg,nice10_jpg,nice0_jpg,finger_png,nice11_jpg,you_mp3,cloud_png",
+			"keys": "button_down_png,button_up_png,egret_icon_png,description_json,ballParticle_json,ballParticle_png,cake_png,monkey_png,bg_jpg,star_png,bg10_jpg,finger_png,you_mp3,cloud_png,material7_jpg,material8_jpg,material9_jpg,material10_jpg,material11_jpg,material0_jpg,material1_jpg,material2_jpg,material3_jpg,material4_jpg,material5_jpg,material6_jpg",
 			"name": "preload"
 		}
 	],
@@ -62,69 +62,9 @@
 			"url": "particle/bg10.jpg"
 		},
 		{
-			"name": "nice1_jpg",
-			"type": "image",
-			"url": "nice/nice1.jpg"
-		},
-		{
-			"name": "nice2_jpg",
-			"type": "image",
-			"url": "nice/nice2.jpg"
-		},
-		{
-			"name": "nice3_jpg",
-			"type": "image",
-			"url": "nice/nice3.jpg"
-		},
-		{
-			"name": "nice4_jpg",
-			"type": "image",
-			"url": "nice/nice4.jpg"
-		},
-		{
-			"name": "nice5_jpg",
-			"type": "image",
-			"url": "nice/nice5.jpg"
-		},
-		{
-			"name": "nice6_jpg",
-			"type": "image",
-			"url": "nice/nice6.jpg"
-		},
-		{
-			"name": "nice7_jpg",
-			"type": "image",
-			"url": "nice/nice7.jpg"
-		},
-		{
-			"name": "nice8_jpg",
-			"type": "image",
-			"url": "nice/nice8.jpg"
-		},
-		{
-			"name": "nice9_jpg",
-			"type": "image",
-			"url": "nice/nice9.jpg"
-		},
-		{
-			"name": "nice10_jpg",
-			"type": "image",
-			"url": "nice/nice10.jpg"
-		},
-		{
-			"name": "nice0_jpg",
-			"type": "image",
-			"url": "nice/nice0.jpg"
-		},
-		{
 			"name": "finger_png",
 			"type": "image",
 			"url": "particle/finger.png"
-		},
-		{
-			"name": "nice11_jpg",
-			"type": "image",
-			"url": "nice/nice11.jpg"
 		},
 		{
 			"name": "you_mp3",
@@ -135,6 +75,66 @@
 			"name": "cloud_png",
 			"type": "image",
 			"url": "particle/cloud.png"
+		},
+		{
+			"name": "material7_jpg",
+			"type": "image",
+			"url": "star/material7.jpg"
+		},
+		{
+			"name": "material8_jpg",
+			"type": "image",
+			"url": "star/material8.jpg"
+		},
+		{
+			"name": "material9_jpg",
+			"type": "image",
+			"url": "star/material9.jpg"
+		},
+		{
+			"name": "material10_jpg",
+			"type": "image",
+			"url": "star/material10.jpg"
+		},
+		{
+			"name": "material11_jpg",
+			"type": "image",
+			"url": "star/material11.jpg"
+		},
+		{
+			"name": "material0_jpg",
+			"type": "image",
+			"url": "star/material0.jpg"
+		},
+		{
+			"name": "material1_jpg",
+			"type": "image",
+			"url": "star/material1.jpg"
+		},
+		{
+			"name": "material2_jpg",
+			"type": "image",
+			"url": "star/material2.jpg"
+		},
+		{
+			"name": "material3_jpg",
+			"type": "image",
+			"url": "star/material3.jpg"
+		},
+		{
+			"name": "material4_jpg",
+			"type": "image",
+			"url": "star/material4.jpg"
+		},
+		{
+			"name": "material5_jpg",
+			"type": "image",
+			"url": "star/material5.jpg"
+		},
+		{
+			"name": "material6_jpg",
+			"type": "image",
+			"url": "star/material6.jpg"
 		}
 	]
 }
