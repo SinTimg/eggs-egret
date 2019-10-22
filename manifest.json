@@ -4,14 +4,11 @@
 		"js/egret.web.min_b66ab113.js",
 		"js/eui.min_493403ce.js",
 		"js/assetsmanager.min_2ef412b7.js",
-		"js/dragonBones.min_6252b9c4.js",
-		"js/game.min_16249d0f.js",
 		"js/tween.min_6c5a88f9.js",
-		"js/particle.min_d717ba80.js",
-		"js/egretmgobe.min_b3595e62.js"
+		"js/particle.min_d717ba80.js"
 	],
 	"game": [
 		"js/default.thm_426e783b.js",
-		"js/main.min_d487c5ae.js"
+		"js/main.min_346b30c4.js"
 	]
 }
