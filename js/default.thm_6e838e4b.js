@@ -40,17 +40,17 @@ window.skins=window.skins||{};
 	_proto._Image1_i = function () {
 		var t = new eui.Image();
 		this._Image1 = t;
-		t.percentHeight = 100;
+		t.height = 80;
 		t.scale9Grid = new egret.Rectangle(1,3,8,8);
 		t.source = "button_up_png";
-		t.percentWidth = 100;
+		t.width = 300;
 		return t;
 	};
 	_proto.labelDisplay_i = function () {
 		var t = new eui.Label();
 		this.labelDisplay = t;
 		t.bottom = 8;
-		t.left = 8;
+		t.left = 108;
 		t.right = 8;
 		t.size = 20;
 		t.textAlign = "center";
